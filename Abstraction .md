@@ -55,3 +55,5 @@ print("Area of a circle:", cir.calculate_area())
 <img width="1431" height="707" alt="image" src="https://github.com/user-attachments/assets/fe7d9a12-65f7-4a31-8191-50b825cf0da4" />
 
 ## Result
+Thus, the program has been successfully executed.
+
