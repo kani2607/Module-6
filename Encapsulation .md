@@ -42,3 +42,5 @@ rect.print_values()
 <img width="1583" height="503" alt="image" src="https://github.com/user-attachments/assets/8f866f26-4550-407f-8c8f-657a6f87ecd9" />
 
 ## Result
+Thus, the program has been successfully executed.
+
